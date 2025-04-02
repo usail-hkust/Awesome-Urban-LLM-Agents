@@ -40,6 +40,8 @@ An Awesome Collection of Urban LLM Agents.
 ### Urban Context Sensing
 
 #### Sensing Modalities
+- (*arXiv 2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*KDD'25*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
 
 #### Modality Semantic Unification
 
