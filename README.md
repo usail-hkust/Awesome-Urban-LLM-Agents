@@ -57,6 +57,15 @@ An Awesome Collection of Urban LLM Agents.
 
 ### LLM Agents for Transportation System
 
+#### Predictive Analytics and Data Utilization
+- (*arXiv'202412*) TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models [[paper](https://arxiv.org/pdf/2412.06831)] [[code](https://github.com/usail-hkust/LLMTSCS](https://github.com/UTEL-UIUC/TransitGPT)]
+- (*arXiv'202405*) Enhancing traffic prediction with textual data using large language models [[paper](https://arxiv.org/pdf/2405.06719)]
+
+#### Adaptive Decision-Making and Control
+- (*IEEE DOCS'24*) Research on Travel Route Planning Optimization based on Large Language Model [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704489)]
+
+
+
 ### LLM Agents for Environmental Sustainability
 
 ### LLM Agents for Public Safety
