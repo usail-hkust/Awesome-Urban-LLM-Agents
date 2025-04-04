@@ -58,13 +58,29 @@ An Awesome Collection of Urban LLM Agents.
 ### LLM Agents for Transportation System
 
 #### Predictive Analytics and Data Utilization
-- (*arXiv'202412*) TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models [[paper](https://arxiv.org/pdf/2412.06831)] [[code](https://github.com/usail-hkust/LLMTSCS](https://github.com/UTEL-UIUC/TransitGPT)]
+- (*arXiv'202412*) TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models [[paper](https://arxiv.org/pdf/2412.06831)] [[code](https://github.com/UTEL-UIUC/TransitGPT)]
 - (*arXiv'202405*) Enhancing traffic prediction with textual data using large language models [[paper](https://arxiv.org/pdf/2405.06719)]
 
 #### Adaptive Decision-Making and Control
+
+##### Route Planning and Navigation
 - (*IEEE DOCS'24*) Research on Travel Route Planning Optimization based on Large Language Model [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704489)]
+- (*The Innovation*) Can language models be used for real-world urban-delivery route optimization? [[paper](https://www.cell.com/the-innovation/pdfExtended/S2666-6758(23)00148-0)]
+- (*arXiv'202408*) DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models [[paper](https://arxiv.org/pdf/2408.14185?)]
+- (*arXiv'202407*) TraveLLM: Could you plan my new public transit route in face of a network disruption? [[paper](https://arxiv.org/pdf/2407.14926)]
 
+##### Traffic Signal Control
+- (*arXiv'202406*) LLM-assisted light: Leveraging large language model capabilities for human-mimetic traffic signal control in complex urban environments [[paper](https://arxiv.org/pdf/2403.08337)][[code](https://github.com/Traffic-Alpha/LLM-Assisted-Light)]
+- (*arXiv'202407*) iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement [[paper]([https://arxiv.org/pdf/2312.16044](https://arxiv.org/pdf/2407.06025?))] [[code](https://github.com/Traffic-Alpha/iLLM-TSC)]
+- (*arXiv'202408*) LLM Powered Sim-to-real Transfer for Traffic Signal Control [[paper](https://www.researchgate.net/profile/Longchao-Da/publication/373451211_LLM_Powered_Sim-to-real_Transfer_for_Traffic_Signal_Control/links/65461311b1398a779d5af74d/LLM-Powered-Sim-to-real-Transfer-for-Traffic-Signal-Control.pdf)]
+- (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/pdf/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
+- (*arXiv‘20503*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/pdf/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
 
+#### Public Transportation Services
+- (*arXiv'202405*) CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System [[paper](https://arxiv.org/pdf/2405.14691)]
+- (*arXiv'202411*) LAMP: A language model on the map [[paper](https://arxiv.org/pdf/2403.09059)][[code](https://github.com/PasqualeTurin/LAMP/)]
+- (*arXiv'202412*) Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions [[paper](https://arxiv.org/pdf/2312.13126)]
+- (*arXiv'202502*) DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi [[paper](https://arxiv.org/abs/2503.04768)]
 
 ### LLM Agents for Environmental Sustainability
 
