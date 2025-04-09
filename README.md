@@ -26,6 +26,7 @@ An Awesome Collection of Urban LLM Agents.
       - [Modality Semantic Unification](#modality-semantic-unification)
     - [Context Memory Management](#context-memory-management)
     - [Spatio-Temporal Planning and Reasoning](#spatio-temporal-planning-and-reasoning)
+    - [Learning](#learning)
   - [Application-Centric Perspective](#application-centric-perspective)
     - [LLM Agents for Urban Planning](#llm-agents-for-urban-planning)
     - [LLM Agents for Transportation System](#llm-agents-for-transportation-system)
@@ -37,7 +38,7 @@ An Awesome Collection of Urban LLM Agents.
 
 ## Agent-Centric Perspective
 
-### Urban Context Sensing
+### Urban Sensing
 
 #### Sensing Modalities
 - (*arXiv 2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
@@ -45,11 +46,13 @@ An Awesome Collection of Urban LLM Agents.
 
 #### Modality Semantic Unification
 
-### Context Memory Management
+### Memory Management
 
-### Spatio-Temporal Planning and Reasoning
+### Spatio-Temporal Reasoning
 
 ### Execution and Collaboration
+
+### Learning
 
 ## Application-Centric Perspective
 
