@@ -25,7 +25,7 @@ An Awesome Collection of Urban LLM Agents.
       - [Sensing Modalities](#sensing-modalities)
       - [Semantic Unification](#semantic-unification)
     - [Memory Management](#memory-management)
-    - [Spatio-Temporal Planning and Reasoning](#spatio-temporal-planning-and-reasoning)
+    - [Planning and Reasoning](#planning-and-reasoning)
     - [Learning](#learning)
   - [Application-Centric Perspective](#application-centric-perspective)
     - [LLM Agents for Urban Planning](#llm-agents-for-urban-planning)
@@ -48,7 +48,7 @@ An Awesome Collection of Urban LLM Agents.
 
 ### Memory Management
 
-### Spatio-Temporal Reasoning
+### Planning and Reasoning
 
 ### Execution and Collaboration
 
