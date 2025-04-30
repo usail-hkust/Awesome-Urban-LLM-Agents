@@ -46,6 +46,16 @@ An Awesome Collection of Urban LLM Agents.
 - (*TIST'2014*) Urban Computing: Concepts, Methodologies, and Applications [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)]
 
 #### Semantic Unification
+Modality-to-text translation
+- (*arXiv'2024.05*) Large Language Models are Zero-Shot Next Location Predictors [[paper](https://arxiv.org/abs/2405.20962v3)]
+- (*SIGIR'2024*) Large Language Models for Next Point-of-Interest Recommendation [[paper](https://arxiv.org/abs/2404.17591)] [[code](https://github.com/neolifer/LLM4POI)]
+- (*NeurIPS'2023*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3eb7ca52e8207697361b2c0fb3926511-Abstract-Conference.html)] [[code](https://github.com/ngruver/llmtime)]
+- (*arXiv'2023.04*) On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence [[paper](https://arxiv.org/abs/2304.06798)] [[code](https://github.com/neolifer/LLM4POI)]
+Cross-modal alignment
+- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
+Tool-assisted processing
+- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
+
 
 ### Memory Management
 
