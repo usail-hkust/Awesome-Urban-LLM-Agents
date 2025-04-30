@@ -85,12 +85,12 @@ Hybrid retrieval
 #### Temporal Reasoning
 General scenarios
 
-Urban Scenarios
+Urban scenarios
 
 #### Spatial Reasoning
 General scenarios
 
-Urban Scenarios
+Urban scenarios
 
 #### Spatio-Temporal Reasoning
 
