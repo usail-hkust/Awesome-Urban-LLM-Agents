@@ -41,8 +41,9 @@ An Awesome Collection of Urban LLM Agents.
 ### Urban Sensing
 
 #### Sensing Modalities
-- (*arXiv 2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
-- (*KDD'25*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
+- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
+- (*arXiv'2024.01*) Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models [[paper](https://arxiv.org/abs/2402.01749)] [[repo](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models)]
+- (*TIST'2014*) Urban Computing: Concepts, Methodologies, and Applications [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)]
 
 #### Semantic Unification
 
