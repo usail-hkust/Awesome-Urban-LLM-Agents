@@ -51,17 +51,19 @@ Modality-to-text translation
 - (*SIGIR'2024*) Large Language Models for Next Point-of-Interest Recommendation [[paper](https://arxiv.org/abs/2404.17591)] [[code](https://github.com/neolifer/LLM4POI)]
 - (*NeurIPS'2023*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3eb7ca52e8207697361b2c0fb3926511-Abstract-Conference.html)] [[code](https://github.com/ngruver/llmtime)]
 - (*arXiv'2023.04*) On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence [[paper](https://arxiv.org/abs/2304.06798)] [[code](https://github.com/neolifer/LLM4POI)]
+
 Cross-modal alignment
-- (*AAAI'2025*) Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting [[paper](https://arxiv.org/abs/2502.04395)]
+- (*arXiv'2025.02*) Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting [[paper](https://arxiv.org/abs/2502.04395)]
 - (*NSR'2025*) A Survey on Multimodal Large Language Models [[paper](https://arxiv.org/abs/2306.13549)] [[repo](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 - (*AAAI'2025*) UrbanVLP: Multi-Granularity Vision-Language Pretraining for Urban Socioeconomic Indicator Prediction [[paper](https://arxiv.org/abs/2403.16831)] [[code](https://github.com/CityMind-Lab/UrbanVLP)]
 - (*KDD'2025*) MM-Path: Multi-modal, Multi-granularity Path Representation Learning [[paper](https://arxiv.org/abs/2411.18428)] [[code](https://github.com/decisionintelligence/MM-Path)]
 - (*KDD'2024*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/abs/2403.00813)] [[code](https://github.com/HKUDS/UrbanGPT)]
 - (*KDD'2024*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations [[paper](https://huangjizhou.github.io/papers/ReFound-KDD24.pdf)] [[code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/ReFound)]
 - (*WWW'2024*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web [[paper](https://arxiv.org/abs/2310.18340)] [[code](https://github.com/StupidBuluchacha/UrbanCLIP)]
-Tool-assisted processing
-- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
 
+Tool-assisted processing
+- (*arXiv'2024.11*) GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis [[paper](https://arxiv.org/abs/2411.03205)] [[code](https://github.com/Teakinboyewa/SpatialAnalysisAgent)]
+- (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
 
 ### Memory Management
 
