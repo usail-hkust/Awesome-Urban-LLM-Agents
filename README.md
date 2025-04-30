@@ -73,14 +73,53 @@ Tool-assisted processing
 #### Memory Acquisition
 
 #### Memory Retrieval
+Spatio-temporal retrieval
+
+Semantic retrieval
+
+Hybrid retrieval
 
 #### Memory Utilization
 
 ### Reasoning
+#### Temporal Reasoning
+General scenarios
+
+Urban Scenarios
+
+#### Spatial Reasoning
+General scenarios
+
+Urban Scenarios
+
+#### Spatio-Temporal Reasoning
 
 ### Execution
+#### Single Agent Execution
+Software control
+
+Hardware control
+
+#### Mutli-Agent Collaboration
+Implicit coordination
+
+Explicit coordination
+
+#### Human-Agent Collaboration
+Process intervention
+
+Post-hoc evaluation
 
 ### Learning
+#### Learning from Sythetic Data
+Vanilla instruction generation
+
+Advanced reasoning augmentation
+
+#### Learning from Environmental Feedback
+Simulation-based feedback
+
+Real-world feedback
 
 ## Application-Centric Perspective
 
