@@ -25,7 +25,11 @@ An Awesome Collection of Urban LLM Agents.
       - [Sensing Modalities](#sensing-modalities)
       - [Semantic Unification](#semantic-unification)
     - [Memory Management](#memory-management)
-    - [Planning and Reasoning](#planning-and-reasoning)
+      - [Memory Acquisition](#memory-acquisition)
+      - [Memory Retrieval](#memory-retrieval)
+      - [Memory Utilization](#memory-utilization)
+    - [Reasoning](#reasoning)
+    - [Execution](#execution)
     - [Learning](#learning)
   - [Application-Centric Perspective](#application-centric-perspective)
     - [LLM Agents for Urban Planning](#llm-agents-for-urban-planning)
@@ -66,10 +70,15 @@ Tool-assisted processing
 - (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
 
 ### Memory Management
+#### Memory Acquisition
 
-### Planning and Reasoning
+#### Memory Retrieval
 
-### Execution and Collaboration
+#### Memory Utilization
+
+### Reasoning
+
+### Execution
 
 ### Learning
 
