@@ -124,6 +124,13 @@ Hybrid retrieval
 ### Reasoning
 #### Temporal Reasoning
 General scenarios
+- (*ICLR'2025*) Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning [[paper](https://arxiv.org/abs/2406.09170v1)] [[code](https://huggingface.co/datasets/baharef/ToT)]
+- (*WWW'2024*) Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645376?casa_token=hDUZq4GZXO0AAAAA:SccttAHiepJFhz1dzrt34CUyqEMJy3QyVSClLeduxISMEj1QT20WW3SZfobeMd4OU2UPfPSlxzg9hw)] [[code](https://github.com/chenhan97/TimeLlama)]
+- (*CoLM'2024*) Timo: Towards Better Temporal Reasoning for Language Models [[paper](https://arxiv.org/abs/2406.14192)] [[code](https://github.com/zhaochen0110/Timo)]
+- (*ACL'2024*) Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning? [[paper](https://arxiv.org/abs/2406.09072)] [[code](https://github.com/zhaochen0110/Cotempqa)]
+- (*ACL'2024*) TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models [[paper](https://arxiv.org/abs/2311.17667)] [[code](https://github.com/zchuz/TimeBench)]
+- (*ACL'2024*) TRAM: Benchmarking Temporal Reasoning for Large Language Models [[paper](https://arxiv.org/abs/2310.00835v3)] [[code](https://github.com/EternityYW/TRAM-Benchmark)]
+- (*ACL'2023*) Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models [[paper](https://arxiv.org/abs/2306.08952v2)] [[code](https://github.com/DAMO-NLP-SG/TempReason)]
 
 Urban scenarios
 
