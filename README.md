@@ -139,10 +139,22 @@ Urban scenarios
 
 #### Spatial Reasoning
 General scenarios
+- (*arXiv'2024.12*) Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces [[paper](https://arxiv.org/abs/2412.14171v1)] [[code](https://github.com/vision-x-nyu/thinking-in-space)]
+- (*CVPR'2024*) SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.html)] [[code](https://spatial-vlm.github.io/)]
+- (*NeurIPS'2024*) Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models [[paper](https://openreview.net/forum?id=CEJ1mYPgWw)] [[code](https://github.com/microsoft/visualization-of-thought/)]
+- (*CoLM'2024*) Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models [[paper](https://openreview.net/forum?id=Hvq9RtSoHG#discussion)] [[code](https://github.com/hanxuhu/chain-of-symbol-planning)]
+- (*ACL'2024*) SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models [[paper](https://arxiv.org/abs/2406.04566v1)] [[code](https://github.com/UKPLab/acl2024-sparc-and-sparp)]
+- (*AAAI'2024*) Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29811)] [[code](https://github.com/Fangjun-Li/SpatialLM-StepGame)]
 
 Urban scenarios
+- (*AAAI'2025*) ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33384)] [[code](https://github.com/ForestsKing/ChatTime)]
+- (*NeurIPS'2024*) From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)] [[code](https://github.com/ameliawong1996/From_News_to_Forecast)]
+- (*ICLR'2024*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/abs/2310.01728v2)] [[code](https://github.com/KimMeen/Time-LLM)]
 
 #### Spatio-Temporal Reasoning
+- (*AAAI'2025*) ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33384)] [[code](https://github.com/ForestsKing/ChatTime)]
+- (*NeurIPS'2024*) From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)] [[code](https://github.com/ameliawong1996/From_News_to_Forecast)]
+- (*ICLR'2024*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/abs/2310.01728v2)] [[code](https://github.com/KimMeen/Time-LLM)]
 
 ### Execution
 #### Single Agent Execution
