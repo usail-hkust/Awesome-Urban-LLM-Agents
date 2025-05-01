@@ -176,7 +176,9 @@ Software control
 
 Hardware control
 - (*arXiv‘2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/pdf/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*arXiv'2024.07*) iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement [[paper](https://arxiv.org/abs/2407.06025v1)] [[code](https://github.com/Traffic-Alpha/iLLM-TSC)]
 - (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/pdf/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
+- (*IJMLC'2024*) Open-TI: Open Traffic Intelligence with Augmented Language Model [[paper](https://link.springer.com/article/10.1007/s13042-024-02190-8)]
 
 #### Mutli-Agent Collaboration
 Implicit coordination
