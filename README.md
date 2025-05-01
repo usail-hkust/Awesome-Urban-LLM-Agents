@@ -45,8 +45,8 @@ An Awesome Collection of Urban LLM Agents.
 ### Urban Sensing
 
 #### Sensing Modalities
-- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
 - (*arXiv'2024.01*) Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models [[paper](https://arxiv.org/abs/2402.01749)] [[repo](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models)]
+- (*Information Fusion'2025*) Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook [[paper](https://arxiv.org/abs/2402.19348)] [[repo](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing)]
 - (*TIST'2014*) Urban Computing: Concepts, Methodologies, and Applications [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)]
 
 #### Semantic Unification
@@ -73,19 +73,19 @@ Tool-assisted processing
 #### Memory Acquisition
 Operational state memory
 - (*arXiv'2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739v1)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*arXiv'2024.10*) TrajAgent: An Agent Framework for Unified Trajectory Modelling [[paper](https://arxiv.org/abs/2410.20445v1)] [[code](https://github.com/tsinghua-fib-lab/TrajAgent)]
 - (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://arxiv.org/abs/2408.13986v2)] [[code](https://github.com/tsinghua-fib-lab/AgentMove)]
 - (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044v5)] [[code](https://github.com/usail-hkust/LLMTSCS)]
-- (*arXiv'2024.10*) TrajAgent: An Agent Framework for Unified Trajectory Modelling [[paper](https://arxiv.org/abs/2410.20445v1)] [[code](https://github.com/tsinghua-fib-lab/TrajAgent)]
 
 Geospatial map memory
+- (*arXiv'2025.02*) Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions [[paper](https://arxiv.org/abs/2502.18470v3)]
 - (*arXiv'2024.06*) CityGPT: Empowering Urban Spatial Cognition of Large Language Models [[paper](https://arxiv.org/abs/2406.13948v1)] [[code](https://github.com/tsinghua-fib-lab/CityGPT)]
 - (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
-- (*arXiv'2025.02*) Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions [[paper](https://arxiv.org/abs/2502.18470v3)]
 
 Vector database memory
+- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
 - (*VLDBJ'2025*) Survey of Vector Database Management Systems [[paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)]
 - (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
-- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
 
 Knowledge graph memory
 - (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
