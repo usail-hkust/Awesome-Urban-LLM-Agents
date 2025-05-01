@@ -182,8 +182,13 @@ Hardware control
 
 #### Mutli-Agent Collaboration
 Implicit coordination
+- (*arXiv‘2025.02*) AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society [[paper](https://arxiv.org/abs/2502.08691v1)] [[code](https://github.com/tsinghua-fib-lab/agentsociety)]
+- (*arXiv‘2024.10*) OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents [[paper](https://arxiv.org/abs/2410.21286v1)]
+- (*arXiv‘2023.12*) Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment [[paper](https://arxiv.org/abs/2312.11813v1)]
 
 Explicit coordination
+- (*arXiv‘2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/pdf/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*arXiv'2024.05*) CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System [[paper](https://arxiv.org/pdf/2405.14691)]
 
 #### Human-Agent Collaboration
 Process intervention
