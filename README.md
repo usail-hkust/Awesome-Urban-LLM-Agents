@@ -192,8 +192,14 @@ Explicit coordination
 
 #### Human-Agent Collaboration
 Process intervention
+- (*arXiv'2024.05*) TravelAgent: An AI Assistant for Personalized Travel Planning [[paper](https://arxiv.org/abs/2409.08069v1)]
+- (*arXiv'2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161v1)]
+- (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
+- (*CAI'2024*) LLM-Assisted Crisis Management: Building Advanced LLM Platforms for Effective Emergency Response and Public Collaboration [[paper](https://ieeexplore.ieee.org/abstract/document/10605553?casa_token=G8FPvaRzUXoAAAAA:ULrrsBvWI7yJu8A_qcMTywr3mDmoXZ2XLmQ_l79Qf5J_SO-g_bd06MjOzlF4uYHPJ83fgTT1mQgu)]
 
 Post-hoc evaluation
+- (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
+- (*EMNLP'2024*) UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models [[paper](https://arxiv.org/abs/2406.12360v1)]
 
 ### Learning
 #### Learning from Sythetic Data
