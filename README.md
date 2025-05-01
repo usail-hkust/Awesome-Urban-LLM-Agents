@@ -166,8 +166,17 @@ Urban scenarios
 ### Execution
 #### Single Agent Execution
 Software control
+- (*arXiv'2024.08*) An Autonomous GIS Agent Framework for Geospatial Data Retrieval [[paper](https://arxiv.org/abs/2407.21024v2)] [[code](https://github.com/gladcolor/LLM-Find/)]
+- (*arXiv'2024.05*) TravelAgent: An AI Assistant for Personalized Travel Planning [[paper](https://arxiv.org/abs/2409.08069v1)]
+- (*arXiv'2024.03*) LAMP: A Language Model on the Map [[paper](https://arxiv.org/abs/2403.09059v2)] [[code](https://github.com/PasqualeTurin/LAMP/tree/main)]
+- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
+- (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
+- (*EMNLP'2024*) UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models [[paper](https://arxiv.org/abs/2406.12360v1)]
+- (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
 
 Hardware control
+- (*arXiv‘2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/pdf/2503.11739)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/pdf/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
 
 #### Mutli-Agent Collaboration
 Implicit coordination
