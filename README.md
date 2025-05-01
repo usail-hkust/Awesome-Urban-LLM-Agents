@@ -94,6 +94,13 @@ Knowledge graph memory
 
 #### Memory Retrieval
 Spatio-temporal retrieval
+- (*CSUR'2022*) A Survey on Spatio-temporal Data Analytics Systems [[paper](https://dl.acm.org/doi/full/10.1145/3507904?casa_token=4A6lmvFaP3kAAAAA%3ANHA6c-T_JJAarr7epm0UBmH7bPw79yegvzDX0Rv25l7xlkVSIXSfaf-SMOd7hcV3bFKOftMVw9VsFv8)]
+- (*ICDE'2020*) JUST: JD Urban Spatio-Temporal Data Engine [[paper](https://ieeexplore.ieee.org/abstract/document/9101507?casa_token=676iqCHflKMAAAAA:hd2T_M3U58r7dVUGbYUuz47IAHD7SVHNXthUjg4paSctJHGaoLGZApixe5NctX69pOSva1jv4K80SQ)]
+- (*GeoInformatica'2018*) ST-Hadoop: a MapReduce framework for spatio-temporal data [[paper](https://link.springer.com/article/10.1007/s10707-018-0325-6)]
+- (*SIGSPATIAL'2015*) GeoSpark: a cluster computing framework for processing large-scale spatial data [[paper](https://dl.acm.org/doi/abs/10.1145/2820783.2820860?casa_token=5avcBMdPFR4AAAAA:RsF6NhBYEpINo4qDUfsCCP6-RsHEHy3N3-ekzlOGyvdKEG5Y1DN4YodMRnh1pMZpHDt-NwG17-WgNUA)]
+- (*VLDB'2016*) LocationSpark: A Distributed In-Memory Data Management System for Big Spatial Data [[paper](https://dl.acm.org/doi/abs/10.14778/3007263.3007310?casa_token=lnem1yFYwrwAAAAA:PnuKAwIXlmS2PSIQ4DD54PzG9jtJbKP1dp_wmbc_MGFuBn31sf3Lkuaib0og1RkTJb6DLj-Thw_gWSQ)] [[code](https://github.com/purduedb/LocationSpark)]
+- (*SPIE'2015*) GeoMesa: a distributed architecture for spatio-temporal fusion [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9473/1/GeoMesa-a-distributed-architecture-for-spatio-temporal-fusion/10.1117/12.2177233.short)]
+- (*TIST'2014*) Urban Computing: Concepts, Methodologies, and Applications [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)]
 
 Semantic retrieval
 - (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
