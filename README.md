@@ -84,8 +84,8 @@ Geospatial map memory
 
 Vector database memory
 - (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
-- (*VLDBJ'2025*) Survey of Vector Database Management Systems [[paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)]
 - (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
+- (*VLDBJ'2024*) Survey of Vector Database Management Systems [[paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)]
 
 Knowledge graph memory
 - (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
@@ -96,8 +96,11 @@ Knowledge graph memory
 Spatio-temporal retrieval
 
 Semantic retrieval
+- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
+- (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
 
 Hybrid retrieval
+- (*arXiv'2025.02*) Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions [[paper](https://arxiv.org/abs/2502.18470v3)]
 
 #### Memory Utilization
 
