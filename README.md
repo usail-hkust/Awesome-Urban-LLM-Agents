@@ -71,17 +71,24 @@ Tool-assisted processing
 
 ### Memory Management
 #### Memory Acquisition
+Operational state memory
 - (*arXiv'2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739v1)] [[code](https://github.com/usail-hkust/CoLLMLight)]
 - (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://arxiv.org/abs/2408.13986v2)] [[code](https://github.com/tsinghua-fib-lab/AgentMove)]
 - (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044v5)] [[code](https://github.com/usail-hkust/LLMTSCS)]
 - (*arXiv'2024.10*) TrajAgent: An Agent Framework for Unified Trajectory Modelling [[paper](https://arxiv.org/abs/2410.20445v1)] [[code](https://github.com/tsinghua-fib-lab/TrajAgent)]
+Geospatial map memory
 - (*arXiv'2024.06*) CityGPT: Empowering Urban Spatial Cognition of Large Language Models [[paper](https://arxiv.org/abs/2406.13948v1)] [[code](https://github.com/tsinghua-fib-lab/CityGPT)]
 - (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
 - (*arXiv'2025.02*) Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Spatial Reasoning Questions [[paper](https://arxiv.org/abs/2502.18470v3)]
+Vector database memory
 - (*VLDBJ'2025*) Survey of Vector Database Management Systems [[paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)]
 - (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
-- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
+Knowledge graph memory
+- (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
+- (*NeurIPS'2023*) UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c4a30a4dd840cfeff30ba4d2661ff097-Abstract-Datasets_and_Benchmarks.html)] [[code](https://github.com/usail-hkust/UUKG/)]
+- (*TIST'2023*) UrbanKG: An Urban Knowledge Graph System [[paper]([https://arxiv.org/abs/2402.19273v1](https://dl.acm.org/doi/full/10.1145/3588577?casa_token=1lrHT_ebnMwAAAAA%3A5gO_k_gfKj3yPAlXGjzpqVPG9GCfU0Smog1gvSkBufjRm2axPyMEc3UNu9xY1G2LN0BlGztO9iMWEHY))]
 
+https://dl.acm.org/doi/full/10.1145/3588577?casa_token=1lrHT_ebnMwAAAAA%3A5gO_k_gfKj3yPAlXGjzpqVPG9GCfU0Smog1gvSkBufjRm2axPyMEc3UNu9xY1G2LN0BlGztO9iMWEHY
 #### Memory Retrieval
 Spatio-temporal retrieval
 
