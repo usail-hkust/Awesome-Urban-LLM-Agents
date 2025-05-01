@@ -44,7 +44,7 @@ An Awesome Collection of Urban LLM Agents.
     - [LLM Agents for Transportation System](#llm-agents-for-transportation-system)
     - [LLM Agents for Environmental Sustainability](#llm-agents-for-environmental-sustainability)
     - [LLM Agents for Public Safety](#llm-agents-for-public-safety)
-    - [LLM Agents for Social-Economic Simulation](#llm-agents-for-social-economic-simulation)
+    - [LLM Agents for Urban Society](#llm-agents-for-urban-society)
   - [Trustworthiness of Urban LLM Agents](#trustworthiness-of-urban-llm-agents)
   - [Performance Evaluation](#performance-evaluation)
 
@@ -220,7 +220,7 @@ Real-world feedback
 - (*IEEE CAI'2024*) Llm-assisted crisis management: Building advanced llm platforms for effective emergency response and public collaboration [[paper](https://arxiv.org/pdf/2402.10908)]
 
 
-### LLM Agents for Social-Economic Simulation
+### LLM Agents for Urban Society
 
 ## Trustworthiness of Urban LLM Agents
 
