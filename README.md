@@ -85,7 +85,8 @@ Geospatial map memory
 Vector database memory
 - (*VLDBJ'2025*) Survey of Vector Database Management Systems [[paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)]
 - (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
-- 
+- (*arXiv'2024.02*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/abs/2402.19273v1)]
+
 Knowledge graph memory
 - (*NeurIPS'2024*) UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction [[paper](https://arxiv.org/abs/2402.06861v2)] [[code](https://github.com/usail-hkust/UrbanKGent)]
 - (*NeurIPS'2023*) UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c4a30a4dd840cfeff30ba4d2661ff097-Abstract-Datasets_and_Benchmarks.html)] [[code](https://github.com/usail-hkust/UUKG/)]
