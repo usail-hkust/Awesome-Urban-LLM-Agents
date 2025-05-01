@@ -153,13 +153,15 @@ Urban scenarios
 - (*arXiv'2024.03*) LAMP: A Language Model on the Map [[paper](https://arxiv.org/abs/2403.09059v2)] [[code](https://github.com/PasqualeTurin/LAMP/tree/main)]
 - (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044v5)] [[code](https://github.com/usail-hkust/LLMTSCS)]
 - (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
-- (*EMNLP'2024*) ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning [[paper](https://arxiv.org/abs/2402.07204v5)] [[code](https://github.com/YihongT/ITINERA)]
 
 
 #### Spatio-Temporal Reasoning
-- (*AAAI'2025*) ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33384)] [[code](https://github.com/ForestsKing/ChatTime)]
-- (*NeurIPS'2024*) From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)] [[code](https://github.com/ameliawong1996/From_News_to_Forecast)]
-- (*ICLR'2024*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/abs/2310.01728v2)] [[code](https://github.com/KimMeen/Time-LLM)]
+- (*arXiv'2025.03*) CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control [[paper](https://arxiv.org/abs/2503.11739v1)] [[code](https://github.com/usail-hkust/CoLLMLight)]
+- (*arXiv'2024.05*) TravelAgent: An AI Assistant for Personalized Travel Planning [[paper](https://arxiv.org/abs/2409.08069v1)]
+- (*arXiv'2024.05*) CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System [[paper](https://arxiv.org/pdf/2405.14691)]
+- (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://arxiv.org/abs/2408.13986v2)] [[code](https://github.com/tsinghua-fib-lab/AgentMove)]
+- (*EMNLP'2024*) UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models [[paper](https://arxiv.org/abs/2406.12360v1)]
+- (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
 
 ### Execution
 #### Single Agent Execution
