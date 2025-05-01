@@ -133,6 +133,9 @@ General scenarios
 - (*ACL'2023*) Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models [[paper](https://arxiv.org/abs/2306.08952v2)] [[code](https://github.com/DAMO-NLP-SG/TempReason)]
 
 Urban scenarios
+- (*AAAI'2025*) ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33384)] [[code](https://github.com/ForestsKing/ChatTime)]
+- (*NeurIPS'2024*) From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)] [[code](https://github.com/ameliawong1996/From_News_to_Forecast)]
+- (*ICLR'2024*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/abs/2310.01728v2)] [[code](https://github.com/KimMeen/Time-LLM)]
 
 #### Spatial Reasoning
 General scenarios
