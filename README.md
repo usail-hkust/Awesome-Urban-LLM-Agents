@@ -263,28 +263,34 @@ Real-world feedback
 
 ### LLM Agents for Environmental Sustainability
 #### Energy Management
-- (*Building Simulation'2025*) Large language models for building energy applications: Opportunities and challenges [[paper](https://link.springer.com/article/10.1007/s12273-025-1235-9)]
-- (*IEEE SmartGridComm'2024*) Democratizing energy management with llm-assisted optimization autoformalism [[paper](https://ieeexplore.ieee.org/document/10738100)]
+- (*ACL'2025*) LLM4DistReconfig: A Fine-tuned Large Language Model for Power Distribution Network Reconfiguration [[paper](https://aclanthology.org/2025.naacl-long.208.pdf)]
+- (*Scientific Reports'2025*) A large language model for advanced power dispatch [[paper](https://www.nature.com/articles/s41598-025-91940-x)]
+- (*ICLR'2024*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/abs/2310.01728v2)] [[code](https://github.com/KimMeen/Time-LLM)]
+- (*arXiv'202411*) EF-LLM: Energy Forecasting LLM with AI-assisted Automation, Enhanced Sparse Prediction, Hallucination Detection [[paper](https://arxiv.org/pdf/2411.00852)]
 
-#### Waste Management
+#### Pollution Control
 - (*Smart Cities'2025*) LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems [[paper](https://www.mdpi.com/2624-6511/8/1/19)]
 - (*arXiv'202412*) Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions [[paper](https://arxiv.org/pdf/2312.13126)]
-
-#### Air Quality Monitoring
 - (*ICPADS'2024*) LLMAir: Adaptive Reprogramming Large Language Model for Air Quality Prediction [[paper](https://ieeexplore.ieee.org/document/10763740)]
 - (*arXiv'202503*) Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires [[paper](https://arxiv.org/pdf/2503.00566)]
 
-#### Climate Change Adaptation
+#### Climate Adaptation
+- (*arXiv'202110*) Climatebert: A pretrained language model for climate-related text [[paper](https://arxiv.org/pdf/2110.12010)] [[code](https://github.com/ClimateBert/language-model)]
+- (*arXiv'202401*) ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change [[paper](https://arxiv.org/pdf/2401.09646)] [[code](https://huggingface.co/eci-io)]
+- (*Communications Earth & Environment'2023*) ChatClimate: Grounding conversational AI in climate science [[paper](https://www.nature.com/articles/s43247-023-01084-x)]
+- (*ICLR'2025*) ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models [[paper](https://arxiv.org/pdf/2410.16701)] [[code](https://github.com/Rose-STL-Lab/genie-climaqa)]
 
 
 ### LLM Agents for Public Safety
-#### Crime Prediction
+#### Crime Prevention
 - (*FSIDI'2025*) Exploring the potential of large language models for improving digital forensic investigation efficiency [[paper](https://arxiv.org/pdf/2402.19366)]
 - (*ICAART'2025*) CriX: Intersection of Crime, Demographics and Explainable AI [[paper](https://www.scitepress.org/Papers/2025/133162/133162.pdf)]
 
-#### Emergency Management
+#### Emergency Response
 - (*ICFTIC'2024*) Multi-Agent Enhanced Complex Decision-Making Support Framework: An Urban Emergency Case Study [[paper](https://www.mdpi.com/2073-4441/12/4/1190)]
 - (*IEEE CAI'2024*) Llm-assisted crisis management: Building advanced llm platforms for effective emergency response and public collaboration [[paper](https://arxiv.org/pdf/2402.10908)]
+
+#### Public Opinion Management
 
 
 ### LLM Agents for Urban Society
