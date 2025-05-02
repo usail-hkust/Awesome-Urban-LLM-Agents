@@ -285,13 +285,18 @@ Real-world feedback
 #### Crime Prevention
 - (*FSIDI'2025*) Exploring the potential of large language models for improving digital forensic investigation efficiency [[paper](https://arxiv.org/pdf/2402.19366)]
 - (*ICAART'2025*) CriX: Intersection of Crime, Demographics and Explainable AI [[paper](https://www.scitepress.org/Papers/2025/133162/133162.pdf)]
+- (*COMPSAC'2024*) WatchOverGPT: A Framework for Real-Time Crime Detection and Response Using Wearable Camera and Large Language Model [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633435)]
 
 #### Emergency Response
 - (*ICFTIC'2024*) Multi-Agent Enhanced Complex Decision-Making Support Framework: An Urban Emergency Case Study [[paper](https://www.mdpi.com/2073-4441/12/4/1190)]
 - (*IEEE CAI'2024*) Llm-assisted crisis management: Building advanced llm platforms for effective emergency response and public collaboration [[paper](https://arxiv.org/pdf/2402.10908)]
 
 #### Public Opinion Management
-
+- (*arXiv'202503*) Invisible Walls in Cities: Leveraging Large Language Models to Predict Urban Segregation Experience with Social Media Content [[paper](https://arxiv.org/pdf/2503.04773)]
+- (*International Journal of Disaster Risk Reduction'2024*) Enhanced earthquake impact analysis based on social media texts via large language model [[paper](https://arxiv.org/pdf/2503.04773)]
+- (*Geo-Inf'2024*) A question and answering service of typhoon disasters based on the t5 large language model [[paper](https://www.mdpi.com/2220-9964/13/5/165)]
+- (*ICAICE'23*) Unleashing the Potential of Large Language Model: Zero-shot VQA for Flood Disaster Scenario [[paper](https://dl.acm.org/doi/10.1145/3652628.3652689)]
+- (*IARRC'2024*) The Role of Large Language Models for Decision Support in Fire Safety Planning [[paper](https://www.iaarc.org/publications/2024_proceedings_of_the_41st_isarc_lille_france/the_role_of_large_language_models_for_decision_support_in_fire_safety_planning.html)]
 
 ### LLM Agents for Urban Society
 
