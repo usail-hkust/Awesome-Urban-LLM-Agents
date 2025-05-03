@@ -42,6 +42,7 @@ An Awesome Collection of Urban LLM Agents.
   - [Application-Centric Perspective](#application-centric-perspective)
     - [LLM Agents for Urban Planning](#llm-agents-for-urban-planning)
     - [LLM Agents for Transportation System](#llm-agents-for-transportation-system)
+      - [Infrastructure Optimization](#Infrastructure-Optimization)
     - [LLM Agents for Environmental Sustainability](#llm-agents-for-environmental-sustainability)
     - [LLM Agents for Public Safety](#llm-agents-for-public-safety)
     - [LLM Agents for Urban Society](#llm-agents-for-urban-society)
