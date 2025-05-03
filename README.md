@@ -237,6 +237,24 @@ Real-world feedback
 
 ### LLM Agents for Urban Planning
 
+#### Central Planning
+- (*arXiv'202402*) PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval [[paper](https://arxiv.org/pdf/2402.19273)]
+- (*arXiv'202406*) City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization [[paper](https://arxiv.org/pdf/2406.10958)]
+- (*Sustainable Cities and Society'2024*) Large language model as parking planning agent in the context of mixed period of autonomous vehicles and Human-Driven vehicles [[paper](https://www.sciencedirect.com/science/article/pii/S2210670724007649)]
+- (*arXiv'202504*) UrbanPlanBench: A Comprehensive Urban Planning Benchmark for Evaluating Large Language Models [[paper](https://arxiv.org/pdf/2504.21027)]
+- (*Smart Cities'2025*) LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems [[paper](https://www.mdpi.com/2624-6511/8/1/19)]
+
+#### Participatory Planning
+- (*arXiv'202402*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/pdf/2402.17161）]
+- (*arXiv'202412*) Adaptive Urban Planning: A Hybrid Framework for Balanced City Development [[paper](https://arxiv.org/pdf/2412.15349）]
+- (*AAAI AI4UP Workshop'2025*) Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning [[paper](https://arxiv.org/pdf/2412.20505）]
+
+#### Climate Adaptation
+- (*arXiv'202110*) Climatebert: A pretrained language model for climate-related text [[paper](https://arxiv.org/pdf/2110.12010)] [[code](https://github.com/ClimateBert/language-model)]
+- (*arXiv'202401*) ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change [[paper](https://arxiv.org/pdf/2401.09646)] [[code](https://huggingface.co/eci-io)]
+- (*Communications Earth & Environment'2023*) ChatClimate: Grounding conversational AI in climate science [[paper](https://www.nature.com/articles/s43247-023-01084-x)]
+- (*ICLR'2025*) ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models [[paper](https://arxiv.org/pdf/2410.16701)] [[code](https://github.com/Rose-STL-Lab/genie-climaqa)]
+
 ### LLM Agents for Transportation System
 
 #### Infrastructure Optimization
@@ -307,6 +325,30 @@ Real-world feedback
 - (*IARRC'2024*) The Role of Large Language Models for Decision Support in Fire Safety Planning [[paper](https://www.iaarc.org/publications/2024_proceedings_of_the_41st_isarc_lille_france/the_role_of_large_language_models_for_decision_support_in_fire_safety_planning.html)]
 
 ### LLM Agents for Urban Society
+
+#### Human Mobility
+- (*NeurIPS'2024*) Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation [[paper](https://openreview.net/pdf?id=1iHmhMHNyA)]
+- (*arXiv'202402*) Chain-of-Planned-Behaviour Workflow Elicits Few-Shot Mobility Generation in LLMs [[paper](https://arxiv.org/pdf/2402.09836)]
+- (*arXiv'202407*) Be More Real: Travel Diary Generation Using LLM Agents and Individual Profiles [[paper](https://arxiv.org/pdf/2407.18932)]
+- (*arXiv'202502*) TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation [[paper](https://arxiv.org/pdf/2502.18712)]
+- (*arXiv'202308*) Where Would I Go Next? Large Language Models as Human Mobility Predictors [[paper](https://arxiv.org/pdf/2308.15197)]
+- (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://aclanthology.org/2025.naacl-long.61.pdf)]
+- (*arXiv'202410*) TrajAgent: An Agent Framework for Unified Trajectory Modelling [[paper](https://arxiv.org/pdf/2410.20445)]
+
+#### Social-Economic Activity
+- (*UIST'2023*) Generative Agents: Interactive Simulacra of Human Behavior [[paper](https://arxiv.org/pdf/2304.03442)]
+- (*EMNLP'2023*) Humanoid Agents: Platform for Simulating Human-like Generative Agents [[paper](https://aclanthology.org/2023.emnlp-demo.15.pdf)]
+- (*ICLR'2025*) Simulating Human-like Daily Activities with Desire-driven Autonomy [[paper](https://arxiv.org/pdf/2412.06435)]
+- (*ACL'2024*) EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities [[paper](https://aclanthology.org/2024.acl-long.829.pdf)]
+- (*arXiv'202307*) Epidemic Modeling with Generative Agents [[paper](https://arxiv.org/pdf/2307.04986)]
+- (*AAMAS'2025*) On the limits of agency in agent-based models [[paper](https://arxiv.org/pdf/2409.10568)]
+- (*arXiv'202410*) OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents [[paper](https://arxiv.org/pdf/2410.21286)]
+- (*arXiv'202502*) AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society [[paper](https://arxiv.org/pdf/2502.08691)]
+
+#### Public Survey
+- (*AIES'24*) LLM Voting: Human Choices and AI Collective Decision-Making [[paper](https://dl.acm.org/doi/pdf/10.5555/3716662.3716809)]
+- (*SIGSPATIAL'2024*) Urban Mobility Assessment Using LLMs [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691221)]
+- (*arXiv'202411*) Generative Agent Simulations of 1,000 People [[paper](https://arxiv.org/pdf/2411.10109)]
 
 ## Trustworthiness of Urban LLM Agents
 
