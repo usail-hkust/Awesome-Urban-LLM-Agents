@@ -242,12 +242,12 @@ Real-world feedback
 - (*arXiv'202406*) City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization [[paper](https://arxiv.org/pdf/2406.10958)]
 - (*Sustainable Cities and Society'2024*) Large language model as parking planning agent in the context of mixed period of autonomous vehicles and Human-Driven vehicles [[paper](https://www.sciencedirect.com/science/article/pii/S2210670724007649)]
 - (*arXiv'202504*) UrbanPlanBench: A Comprehensive Urban Planning Benchmark for Evaluating Large Language Models [[paper](https://arxiv.org/pdf/2504.21027)]
-- (*Smart Cities'2025*) LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems [[paper](https://www.mdpi.com/2624-6511/8/1/19)]
+- (*Smart Cities'2025*) LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems [[paper](https://www.mdpi.com/2624-6511/8/1/19)] [[code](https://github.com/ITMO-NSS-team/llm-agents-for-smartcities-paper)]
 
 #### Participatory Planning
-- (*arXiv'202402*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/pdf/2402.17161）]
-- (*arXiv'202412*) Adaptive Urban Planning: A Hybrid Framework for Balanced City Development [[paper](https://arxiv.org/pdf/2412.15349）]
-- (*AAAI AI4UP Workshop'2025*) Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning [[paper](https://arxiv.org/pdf/2412.20505）]
+- (*arXiv'202402*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/pdf/2402.17161)]
+- (*arXiv'202412*) Adaptive Urban Planning: A Hybrid Framework for Balanced City Development [[paper](https://arxiv.org/pdf/2412.15349)]
+- (*AAAI AI4UP Workshop'2025*) Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning [[paper](https://arxiv.org/pdf/2412.20505)]
 
 #### Climate Adaptation
 - (*arXiv'202110*) Climatebert: A pretrained language model for climate-related text [[paper](https://arxiv.org/pdf/2110.12010)] [[code](https://github.com/ClimateBert/language-model)]
@@ -327,28 +327,28 @@ Real-world feedback
 ### LLM Agents for Urban Society
 
 #### Human Mobility
-- (*NeurIPS'2024*) Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation [[paper](https://openreview.net/pdf?id=1iHmhMHNyA)]
-- (*arXiv'202402*) Chain-of-Planned-Behaviour Workflow Elicits Few-Shot Mobility Generation in LLMs [[paper](https://arxiv.org/pdf/2402.09836)]
+- (*NeurIPS'2024*) Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation [[paper](https://openreview.net/pdf?id=1iHmhMHNyA)] [[code](https://github.com/Wangjw6/LLMob)]
+- (*arXiv'202402*) Chain-of-Planned-Behaviour Workflow Elicits Few-Shot Mobility Generation in LLMs [[paper](https://arxiv.org/pdf/2402.09836)] [[code](https://anonymous.4open.science/r/CoPB/readme.md)]
 - (*arXiv'202407*) Be More Real: Travel Diary Generation Using LLM Agents and Individual Profiles [[paper](https://arxiv.org/pdf/2407.18932)]
-- (*arXiv'202502*) TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation [[paper](https://arxiv.org/pdf/2502.18712)]
-- (*arXiv'202308*) Where Would I Go Next? Large Language Models as Human Mobility Predictors [[paper](https://arxiv.org/pdf/2308.15197)]
-- (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://aclanthology.org/2025.naacl-long.61.pdf)]
+- (*arXiv'202502*) TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation [[paper](https://arxiv.org/pdf/2502.18712)] [[code](https://github.com/cju0/TrajLLM)]
+- (*arXiv'202308*) Where Would I Go Next? Large Language Models as Human Mobility Predictors [[paper](https://arxiv.org/pdf/2308.15197)] [[code](https://github.com/xlwang233/LLM-Mob)]
+- (*NAACL'2025*) AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction [[paper](https://aclanthology.org/2025.naacl-long.61.pdf)] [[code](https://github.com/tsinghua-fib-lab/AgentMove)]
 - (*arXiv'202410*) TrajAgent: An Agent Framework for Unified Trajectory Modelling [[paper](https://arxiv.org/pdf/2410.20445)]
-
+  
 #### Social-Economic Activity
-- (*UIST'2023*) Generative Agents: Interactive Simulacra of Human Behavior [[paper](https://arxiv.org/pdf/2304.03442)]
-- (*EMNLP'2023*) Humanoid Agents: Platform for Simulating Human-like Generative Agents [[paper](https://aclanthology.org/2023.emnlp-demo.15.pdf)]
-- (*ICLR'2025*) Simulating Human-like Daily Activities with Desire-driven Autonomy [[paper](https://arxiv.org/pdf/2412.06435)]
-- (*ACL'2024*) EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities [[paper](https://aclanthology.org/2024.acl-long.829.pdf)]
-- (*arXiv'202307*) Epidemic Modeling with Generative Agents [[paper](https://arxiv.org/pdf/2307.04986)]
-- (*AAMAS'2025*) On the limits of agency in agent-based models [[paper](https://arxiv.org/pdf/2409.10568)]
-- (*arXiv'202410*) OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents [[paper](https://arxiv.org/pdf/2410.21286)]
-- (*arXiv'202502*) AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society [[paper](https://arxiv.org/pdf/2502.08691)]
+- (*UIST'2023*) Generative Agents: Interactive Simulacra of Human Behavior [[paper](https://arxiv.org/pdf/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
+- (*EMNLP'2023*) Humanoid Agents: Platform for Simulating Human-like Generative Agents [[paper](https://aclanthology.org/2023.emnlp-demo.15.pdf)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)]
+- (*ICLR'2025*) Simulating Human-like Daily Activities with Desire-driven Autonomy [[paper](https://arxiv.org/pdf/2412.06435)] [[code](https://github.com/zfw1226/D2A)]
+- (*ACL'2024*) EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities [[paper](https://aclanthology.org/2024.acl-long.829.pdf)] [[code](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)]
+- (*arXiv'202307*) Epidemic Modeling with Generative Agents [[paper](https://arxiv.org/pdf/2307.04986)] [[code](https://github.com/bear96/GABM-Epidemic)]
+- (*AAMAS'2025*) On the limits of agency in agent-based models [[paper](https://arxiv.org/pdf/2409.10568)] [[code](https://github.com/AgentTorch/AgentTorch)]
+- (*arXiv'202410*) OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents [[paper](https://arxiv.org/pdf/2410.21286)] [[code](https://github.com/tsinghua-fib-lab/Anonymous-OpenCity)]
+- (*arXiv'202502*) AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society [[paper](https://arxiv.org/pdf/2502.08691)] [[code](https://github.com/tsinghua-fib-lab/agentsociety)]
 
 #### Public Survey
-- (*AIES'24*) LLM Voting: Human Choices and AI Collective Decision-Making [[paper](https://dl.acm.org/doi/pdf/10.5555/3716662.3716809)]
-- (*SIGSPATIAL'2024*) Urban Mobility Assessment Using LLMs [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691221)]
-- (*arXiv'202411*) Generative Agent Simulations of 1,000 People [[paper](https://arxiv.org/pdf/2411.10109)]
+- (*AIES'24*) LLM Voting: Human Choices and AI Collective Decision-Making [[paper](https://dl.acm.org/doi/pdf/10.5555/3716662.3716809)] [[code](https://github.com/ethz-coss/LLM_voting)]
+- (*SIGSPATIAL'2024*) Urban Mobility Assessment Using LLMs [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691221)] [[code](https://github.com/gmuggs/Urban-Mobility-LLM)]
+- (*arXiv'202411*) Generative Agent Simulations of 1,000 People [[paper](https://arxiv.org/pdf/2411.10109)] [[code](https://github.com/joonspk-research/genagents)]
 
 ## Trustworthiness of Urban LLM Agents
 
