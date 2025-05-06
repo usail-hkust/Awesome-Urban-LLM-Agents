@@ -255,13 +255,13 @@ Real-world feedback
 
 #### Infrastructure Optimization
 
-##### Traffic analytics
+Traffic analytics
 - (*IJMLC'2024*) Open-TI: Open Traffic Intelligence with Augmented Language Model [[paper](https://link.springer.com/article/10.1007/s13042-024-02190-8)]
 - (*arXiv'202412*) TransitGPT: A Generative AI-based framework for interacting with GTFS data using Large Language Models [[paper](https://arxiv.org/pdf/2412.06831)] [[code](https://github.com/UTEL-UIUC/TransitGPT)]
 - (*Transport Policy'2024*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)] [[code](https://github.com/lijlansg/TrafficGPT)]
 - (*arXiv'202405*) CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System [[paper](https://arxiv.org/pdf/2405.14691)]
 
-##### Traffic control
+Traffic control
 - (*arXiv'202407*) iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement [[paper]([https://arxiv.org/pdf/2312.16044](https://arxiv.org/pdf/2407.06025?))] [[code](https://github.com/Traffic-Alpha/iLLM-TSC)]
 - (*arXiv'202408*) LLM Powered Sim-to-real Transfer for Traffic Signal Control [[paper](https://www.researchgate.net/profile/Longchao-Da/publication/373451211_LLM_Powered_Sim-to-real_Transfer_for_Traffic_Signal_Control/links/65461311b1398a779d5af74d/LLM-Powered-Sim-to-real-Transfer-for-Traffic-Signal-Control.pdf)]
 - (*KDD'2025*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/pdf/2312.16044)] [[code](https://github.com/usail-hkust/LLMTSCS)]
@@ -270,7 +270,7 @@ Real-world feedback
 
 #### Human-centric Services
 
-##### Navigation and routing
+Navigation and routing
 - (*arXiv'202407*) TraveLLM: Could you plan my new public transit route in face of a network disruption? [[paper](https://arxiv.org/pdf/2407.14926)]
 - (*arXiv'202504*) TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning [[paper](https://arxiv.org/pdf/2504.08694)]
 - (*arXiv'202411*) LAMP: A language model on the map [[paper](https://arxiv.org/pdf/2403.09059)][[code](https://github.com/PasqualeTurin/LAMP/)]
@@ -278,7 +278,7 @@ Real-world feedback
 - (*arXiv'202412*) Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions [[paper](https://arxiv.org/pdf/2312.13126)]
 - (*The Innovation*) Can language models be used for real-world urban-delivery route optimization? [[paper](https://www.cell.com/the-innovation/pdfExtended/S2666-6758(23)00148-0)]
 
-##### On-demand mobility services
+On-demand mobility services
 - (*arXiv'202412*) GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching [[paper](https://arxiv.org/pdf/2408.10286)]
 - (*arXiv'202502*) DiMA: An LLM-Powered Ride-Hailing Assistant at DiDi [[paper](https://arxiv.org/abs/2503.04768)]
 
