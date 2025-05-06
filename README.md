@@ -348,4 +348,21 @@ On-demand mobility services
 
 ## Trustworthiness of Urban LLM Agents
 
+
+### Safety
+- (*KDD'2023*) Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training [[paper](https://arxiv.org/abs/2306.14126)]
+- (*arXiv'202306*) Prompt Injection Attack against LLM-Integrated Applications [[paper](https://arxiv.org/abs/2306.05499)]
+- (*arXiv'202406*) Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs [[paper](https://arxiv.org/pdf/2406.06622)]ience/article/pii/S2210670724007649)]
+- (*PLOS ONE'2015*) Spatiotemporal Detection of Unusual Human Population Behavior Using Mobile Phone Data [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120449)]
+- (*Signal Processing'2022*) GLOSS: Tensor-Based Anomaly Detection in Spatiotemporal Urban Traffic Data [[paper](https://doi.org/10.1016/j.sigpro.2021.108370)]
+
+### Fairness
+- (*Data-Smart City Solutions'2018*) Algorithmic Fairness: Tackling Bias in City Algorithms [[paper]([https://datasmart.ash.harvard.edu/news/article/algorithmic-fairness-tackling-bias-in-city-algorithms](https://datasmart.hks.harvard.edu/news/article/algorithmic-fairness-tackling-bias-city-algorithms))]
+- (*NeurIPS'2017*) Counterfactual Fairness [[paper](https://arxiv.org/abs/1703.06856)]
+- (*TOIS'2024*) Dynamic Fairness-Aware Recommendation Through Multi-Agent Social Choice [[paper](https://arxiv.org/abs/2303.00968)]
+
+### Accountability
+
+### Privacy
+
 ## Performance Evaluation
