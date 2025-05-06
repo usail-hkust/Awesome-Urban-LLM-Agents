@@ -13,9 +13,6 @@
 An Awesome Collection of Urban LLM Agents.
 
 <a id="news"></a>
-## News  🎉
-
-🌟 2025-xx: This paper xxx.
 
 ## Outline
 - [Awesome-Urban-LLM-Agents](#awesome-urban-llm-agents)
@@ -41,6 +38,8 @@ An Awesome Collection of Urban LLM Agents.
       - [Learning from Environmental Feedback](#learning-from-environmental-feedback)
   - [Application-Centric Perspective](#application-centric-perspective)
     - [LLM Agents for Urban Planning](#llm-agents-for-urban-planning)
+      - [Central Planning](#central-planning)
+      - [Participatory Planning](#participatory-planning)
     - [LLM Agents for Transportation System](#llm-agents-for-transportation-system)
       - [Infrastructure Optimization](#Infrastructure-Optimization)
       - [Human-centric Services](#Human-centric-Services)
@@ -53,6 +52,9 @@ An Awesome Collection of Urban LLM Agents.
       - [Emergency Response](#Emergency-Response)
       - [Public Opinion Management](#Public-Opinion-Management)
     - [LLM Agents for Urban Society](#llm-agents-for-urban-society)
+      - [Human Mobility](#human-mobility)
+      - [Social-Economic Activity](#social-economic-activity)
+      - [Public Survey](#public-survey)
   - [Trustworthiness of Urban LLM Agents](#trustworthiness-of-urban-llm-agents)
   - [Performance Evaluation](#performance-evaluation)
 
@@ -248,12 +250,6 @@ Real-world feedback
 - (*arXiv'202402*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/pdf/2402.17161)]
 - (*arXiv'202412*) Adaptive Urban Planning: A Hybrid Framework for Balanced City Development [[paper](https://arxiv.org/pdf/2412.15349)]
 - (*AAAI AI4UP Workshop'2025*) Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning [[paper](https://arxiv.org/pdf/2412.20505)]
-
-#### Climate Adaptation
-- (*arXiv'202110*) Climatebert: A pretrained language model for climate-related text [[paper](https://arxiv.org/pdf/2110.12010)] [[code](https://github.com/ClimateBert/language-model)]
-- (*arXiv'202401*) ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change [[paper](https://arxiv.org/pdf/2401.09646)] [[code](https://huggingface.co/eci-io)]
-- (*Communications Earth & Environment'2023*) ChatClimate: Grounding conversational AI in climate science [[paper](https://www.nature.com/articles/s43247-023-01084-x)]
-- (*ICLR'2025*) ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models [[paper](https://arxiv.org/pdf/2410.16701)] [[code](https://github.com/Rose-STL-Lab/genie-climaqa)]
 
 ### LLM Agents for Transportation System
 
