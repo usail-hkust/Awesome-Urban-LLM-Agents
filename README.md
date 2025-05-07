@@ -362,6 +362,9 @@ On-demand mobility services
 - (*TOIS'2024*) Dynamic Fairness-Aware Recommendation Through Multi-Agent Social Choice [[paper](https://arxiv.org/abs/2303.00968)]
 
 ### Accountability
+- (*arXiv'202501*) Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling [[paper](https://arxiv.org/pdf/2501.10316)]
+- (*arXiv'202504*) Inherent and Emergent Liability Issues in LLM-Based Agentic Systems: A Principal-Agent Perspective [[paper](https://arxiv.org/abs/2504.03255)]
+
 
 ### Privacy
 - (*IEEE Communications Magazine'2017*) Security and Privacy in Smart City Applications: Challenges and Solutions [[paper](https://ieeexplore.ieee.org/document/7823349)]
@@ -371,3 +374,9 @@ On-demand mobility services
 - (*arXiv'202504*) Urban Computing in the Era of Large Language Models [[paper](https://arxiv.org/abs/2504.02009)]
 
 ## Performance Evaluation
+
+- (*arXiv'202406*) CityBench: Evaluating the Capabilities of Large Language Model as World Model [[paper](https://arxiv.org/pdf/2406.13945)]
+- (*arXiv'202406*) STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis [[paper](https://arxiv.org/pdf/2406.19065)]
+- (*AAAI'2025*) UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29397)]
+- (*OpenReview'2025*) UrbanPlanBench: A Comprehensive Assessment of Urban Planning Abilities in Large Language Models [[paper](https://openreview.net/forum?id=Dl5JaX7zoN)]
+
