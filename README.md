@@ -364,5 +364,10 @@ On-demand mobility services
 ### Accountability
 
 ### Privacy
+- (*IEEE Communications Magazine'2017*) Security and Privacy in Smart City Applications: Challenges and Solutions [[paper](https://ieeexplore.ieee.org/document/7823349)]
+- (*ACM Transactions on Management of Data'2023*) A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy [[paper](https://dl.acm.org/doi/abs/10.1145/3588701)]
+- (*arXiv'202210*) Composition of Differential Privacy & Privacy Amplification by Subsampling [[paper](https://arxiv.org/abs/2210.00597)]
+- (*CCS'2013*) Geo-Indistinguishability: Differential Privacy for Location-Based Systems [[paper](https://arxiv.org/abs/1212.1984)]
+- (*arXiv'202504*) Urban Computing in the Era of Large Language Models [[paper](https://arxiv.org/abs/2504.02009)]
 
 ## Performance Evaluation
