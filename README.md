@@ -244,6 +244,7 @@ Real-world feedback
 - (*Sustainable Cities and Society'2024*) Large language model as parking planning agent in the context of mixed period of autonomous vehicles and Human-Driven vehicles [[paper](https://www.sciencedirect.com/science/article/pii/S2210670724007649)]
 - (*arXiv'202504*) UrbanPlanBench: A Comprehensive Urban Planning Benchmark for Evaluating Large Language Models [[paper](https://arxiv.org/pdf/2504.21027)]
 - (*Smart Cities'2025*) LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems [[paper](https://www.mdpi.com/2624-6511/8/1/19)] [[code](https://github.com/ITMO-NSS-team/llm-agents-for-smartcities-paper)]
+- (*AAAI AI4UP Workshop'2026*) Reasoning Is All You Need for Urban Planning AI [[paper](https://arxiv.org/abs/2511.05375)] [[website](https://sijie-yang.github.io/Reasoning4UP/)]
 
 #### Participatory Planning
 - (*arXiv'202402*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/pdf/2402.17161)]
