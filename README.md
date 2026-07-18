@@ -340,6 +340,7 @@ On-demand mobility services
 - (*AAMAS'2025*) On the limits of agency in agent-based models [[paper](https://arxiv.org/pdf/2409.10568)] [[code](https://github.com/AgentTorch/AgentTorch)]
 - (*arXiv'202410*) OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents [[paper](https://arxiv.org/pdf/2410.21286)] [[code](https://github.com/tsinghua-fib-lab/Anonymous-OpenCity)]
 - (*arXiv'202502*) AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society [[paper](https://arxiv.org/pdf/2502.08691)] [[code](https://github.com/tsinghua-fib-lab/agentsociety)]
+- (*EMNLP'2025*) Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations [[paper](https://arxiv.org/abs/2509.16457)]
 
 #### Public Survey
 - (*AIES'24*) LLM Voting: Human Choices and AI Collective Decision-Making [[paper](https://dl.acm.org/doi/pdf/10.5555/3716662.3716809)] [[code](https://github.com/ethz-coss/LLM_voting)]
