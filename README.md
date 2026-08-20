@@ -301,6 +301,7 @@ On-demand mobility services
 - (*arXiv'202401*) ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change [[paper](https://arxiv.org/pdf/2401.09646)] [[code](https://huggingface.co/eci-io)]
 - (*Communications Earth & Environment'2023*) ChatClimate: Grounding conversational AI in climate science [[paper](https://www.nature.com/articles/s43247-023-01084-x)]
 - (*ICLR'2025*) ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models [[paper](https://arxiv.org/pdf/2410.16701)] [[code](https://github.com/Rose-STL-Lab/genie-climaqa)]
+- (*KDD'2026*) PCA-OS: A Planetary Climate Adaptation Operating System [[paper](https://doi.org/10.1145/3770855.3818654)] [[project](https://chaoyue0307.github.io/PCA-OS/)]
 
 
 ### LLM Agents for Public Safety
