@@ -15,6 +15,7 @@ An Awesome Collection of Urban LLM Agents.
 
 ## Outline
 - [Awesome-Urban-LLM-Agents](#awesome-urban-llm-agents)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
   - [News](#news)
   - [Agent-Centric Perspective](#agent-centric-perspective)
     - [Urban Sensing](#urban-sensing)
